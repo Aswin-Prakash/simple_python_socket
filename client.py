@@ -1,4 +1,4 @@
-# Client Python Code
+# Client Code
 import socket
 s = socket.socket() # Create a socket object
 port = 40674 # Define the port on which you want to connect to the server

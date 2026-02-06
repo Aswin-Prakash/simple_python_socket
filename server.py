@@ -1,4 +1,4 @@
-# Server Python Code
+# Server Code
 import socket
 s = socket.socket() # Create a socket object
 port = 40674 # Define the port on which you want to bind the server
